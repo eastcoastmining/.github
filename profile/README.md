@@ -1,3 +1,3 @@
-# ECM Open Source
+# East Coast Mining - Open Source
 
-East Coast Mining offers cryptocurrency mining hardware for modern investors.
+Our contributions to the open source ecosystem
